@@ -36,6 +36,7 @@ Users should be able to:
 - Flexbox
 
 ### What I learned
+I learnt how to build a presentable website for different screen rersolutions, and the build up of the site was achieved through the use of html codes as well as the css. At first the confusion on where to use margin and padding was telling seriously on me but i believe that constant practice will help me perfect my hand in the development of websites in the future to come.
 
 ```css
 .music-img {
@@ -67,5 +68,6 @@ body {
 
 - Website - https://wwww.internship.sidehustle.ng
 - Side Hustle - Adegboyega SH-IT-0075304
+- Side Hustle - Adama Ojochegbe John Jnr SH-IT-0029720
 
 
